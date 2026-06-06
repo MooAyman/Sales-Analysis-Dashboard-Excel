@@ -4,7 +4,7 @@
 
 This project provides a complete sales analysis solution using Microsoft Excel. The objective was to clean, transform, model, and analyze sales data from multiple sources and build an interactive dashboard for business decision-making.
 
-![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## Tools Used
 
